@@ -1,34 +1,40 @@
-# SPOTIFY-CLONE
 # 🎵 Spotify Clone
 
-A modern and responsive **Spotify Clone** web application built using **HTML, CSS, JavaScript, and React**. This project replicates the core functionality and user interface of Spotify, providing users with an interactive music streaming experience.
+A responsive **Spotify Clone** built using **HTML, CSS, and JavaScript**. This project recreates the user interface and basic functionality of Spotify to practice front-end web development concepts.
 
 ## 🚀 Features
 
-* 🎧 Play, pause, and skip songs
-* 📃 Dynamic playlist management
-* 🔍 Search functionality
-* 📱 Fully responsive design
-* 🎨 Modern Spotify-inspired UI
-* ⏱️ Progress bar and song duration tracking
-* 🔊 Volume control
-* ❤️ Favorite songs feature
-* 🌙 Dark theme interface
+* Spotify-inspired user interface
+* Responsive sidebar navigation
+* Music player layout
+* Interactive UI components
+* Clean and modern design
+* Built with pure HTML, CSS, and JavaScript
 
 ## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* Git & GitHub
+* JavaScript (ES6)
 
-## 📸 Screenshots
+## 📁 Project Structure
 
-*Add screenshots of your project here.*
+```text
+spotify-clone/
+├── index.html
+├── style.css
+├── utility.css
+├── home.svg
+├── search.svg
+├── logo.svg
+└── README.md
+```
 
-## ⚙️ Installation
+## 📸 Preview
+
+*Add screenshots or GIFs of your project here.*
+
+## ⚙️ Getting Started
 
 1. Clone the repository:
 
@@ -36,45 +42,29 @@ A modern and responsive **Spotify Clone** web application built using **HTML, CS
 git clone https://github.com/your-username/spotify-clone.git
 ```
 
-2. Navigate to the project folder:
+2. Open the project folder.
 
-```bash
-cd spotify-clone
-```
+3. Run `index.html` in your browser.
 
-3. Install dependencies:
+## 🎯 Purpose
 
-```bash
-npm install
-```
+This project was created to improve my understanding of:
 
-4. Start the development server:
-
-```bash
-npm run dev
-```
-
-## 🎯 Learning Outcomes
-
-Through this project, I learned:
-
-* Component-based architecture in React
-* State management
-* API integration
-* Responsive web design
+* HTML semantic structure
+* CSS layouts and responsive design
 * JavaScript DOM manipulation
-* Version control with Git and GitHub
+* Front-end project organization
 
 ## 🔮 Future Improvements
 
-* User authentication
-* Backend integration
-* Real-time music streaming
-* Playlist creation and sharing
-* Lyrics support
+* Add music playback functionality
+* Implement playlists
+* Add search functionality
+* Create a responsive mobile design
+* Integrate music APIs
 
 ## 👨‍💻 Author
 
 **Shubham Deo**
 
-If you like this project, feel free to ⭐ the repository.
+⭐ If you like this project, consider giving it a star!
